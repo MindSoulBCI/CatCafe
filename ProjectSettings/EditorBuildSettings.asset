@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CatCafe/Scenes/Cafe.unity
+    guid: 414219d1a79257b2a71635df14a53255
+  m_configObjects:
+    ByteDance.PICO.XR.Settings: {fileID: 11400000, guid: a4b06259e774246969e8ee475eac680f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2cd643f746d3045e08f61e8b3825523c, type: 2}
+  m_UseUCBPForAssetBundles: 0

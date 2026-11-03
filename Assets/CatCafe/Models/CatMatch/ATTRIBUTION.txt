@@ -1,0 +1,5 @@
+Cat model: Lowpoly Toon Cat Lite, by Omabuarts Studio.
+Source project: https://github.com/Reality-Virtually-Hackathon/Cat-Match-AR
+Model asset is distributed under the Unity Asset Store EULA (third-party asset), not the repository's MIT license.
+This copy is included in the local SpatialCatCafe prototype for integration and preview. For redistribution or transfer to another developer/workstation, obtain the asset through the developer's own authorized Unity Asset Store access and follow the current EULA.
+Animation clips included in Cat Lite.fbx: Idle_A, Idle_B, Walk, Run.

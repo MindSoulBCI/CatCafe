@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 686286754, guid: a2005d26a7dfb4db3952cf9ed3794675, type: 3}
+  m_Name: SpatialAdapterResourceData
+  m_EditorClassIdentifier: ByteDance.PICO.SpatialAdapter.Runtime.dll::ByteDance.PICO.SpatialAdapter.SpatialAdapterResourceData
+  PrefabLookUps:
+  - resource: 54624
+    path: SpatialAdapterExport/Assets/CatCafe/Resources/Cats/CatMatchCat.prefab.glb
+  - resource: 55154
+    path: SpatialAdapterExport/Assets/CatCafe/Resources/Cats/GoldenCat.prefab.glb
+  TextureLookUps: []
+  MaterialLookUps:
+  - resource: {fileID: 2100000, guid: 9d30f0eb592b91d4da9bee161ece17c3, type: 2}
+    path: SpatialAdapterExport/Packages/com.bytedance.pico.xr/Resources/Hand/Materials/HandRay.mat.glb
+  - resource: {fileID: 2100000, guid: f819a5fb044d1024baccaa5a88501df2, type: 2}
+    path: SpatialAdapterExport/Packages/com.bytedance.pico.xr/Resources/Hand/Materials/Hand_L.mat.glb
+  - resource: {fileID: 2100000, guid: 8a32e873523a4f248aa73b0f2d2eb54a, type: 2}
+    path: SpatialAdapterExport/Packages/com.bytedance.pico.xr/Resources/Hand/Materials/Hand_R.mat.glb
+  - resource: {fileID: 2100000, guid: cec58c5f03fe94eb3aef8e77a566679c, type: 2}
+    path: SpatialAdapterExport/Assets/CatCafe/Resources/Cats/CatMatchCat.mat.glb
+  - resource: {fileID: 2100000, guid: 34b9dbd3dfb2a48a4aa345e8bfdb8028, type: 2}
+    path: SpatialAdapterExport/Assets/CatCafe/Resources/Cats/materials/white_2.mat.glb
+  - resource: {fileID: 2100000, guid: 262f75ae458494114827717789090667, type: 2}
+    path: SpatialAdapterExport/Assets/CatCafe/Resources/Cats/materials/Short tabby
+      coat_0.mat.glb
+  - resource: {fileID: 2100000, guid: 48259e079fa9644c6af9bf0a29705779, type: 2}
+    path: SpatialAdapterExport/Assets/CatCafe/Resources/Cats/materials/black_1.mat.glb
+  - resource: {fileID: 2100000, guid: 5e1c0b4ed9000442992b63e787627de1, type: 2}
+    path: SpatialAdapterExport/Assets/CatCafe/Resources/Cats/materials/Pet inner
+      ears_4.mat.glb
+  - resource: {fileID: 2100000, guid: 3f9d1ff4ee684491cbe2bab5d8acf711, type: 2}
+    path: SpatialAdapterExport/Assets/CatCafe/Resources/Cats/materials/Warm animal
+      iris_3.mat.glb
+  ShaderGraphLookUps: []
+  DefaultSpatialCameraConfiguration: {fileID: 11400000, guid: 3f0f12161122646a8bbc81d469b0eaeb, type: 2}

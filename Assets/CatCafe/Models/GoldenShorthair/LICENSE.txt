@@ -1,0 +1,7 @@
+Golden Shorthair companion source model
+
+Source: Innerscene "Domestic cat walking" (domestic-cat-walking.glb)
+Source URL: https://www.innerscene.com/tools/library/3d-parts/domestic-cat-walking-4e8ff6c2
+License: CC0 1.0 Universal (public domain dedication)
+
+The model is used as a starting point for the MR cat companion. It is recolored and may be modified in this project.
